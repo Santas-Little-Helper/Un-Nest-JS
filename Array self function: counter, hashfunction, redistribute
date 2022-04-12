@@ -1,0 +1,77 @@
+from ._anvil_designer import Form1Template
+from anvil import *
+import anvil.tables as tables
+import anvil.tables.query as q
+from anvil.tables import app_tables
+
+class Form1(Form1Template):
+
+  def __init__(self, urllib.request: urlopen("http://www.example.com") ):
+    # Set Form properties and Data Bindings.
+    self.init_components(body = response.read())
+    body [:15]
+    b'<!doctype html'>
+    
+    
+
+    pprint (dir(response))
+    def call ["items.sl()"]:
+      ('Data', ),
+      ('Etg' ),
+      ('Server' ),
+      ('Var', 'accept-Encoding'),
+      ('Var', 'accept-nested-Functions')
+      ('X-Cache', 'HIT'),
+      ('Content-Length', ),
+      ('Connection' 'close')]
+    Counter = defaultdict (int)
+    for string in array:
+      counter [string] +- 1;
+      counter (list ()):
+        (integer, 32),
+        (integer, 64),
+        (number, float),
+        #hash distribution. py
+      
+        (string, byte),
+        (string, binary),
+        (boolean, ),
+        (string, date),
+        (string, datetime),
+        (string, password),
+        <<! A hint to user UIs to obscure input>>
+        <<!
+    Counter (set(""))
+    <<! In a set there can only be one instance of the thing>>
+    
+    ._init_()
+    ._new_()
+
+    class BetterClass:
+          pass
+      BetterClass(C)
+      <_main_.BetterClass object at (number, float)>
+      Or ._call_(BetterClass),
+      
+      Def_new_(, , ,):
+        print(" ,")
+        return super()._new_(urls)
+      
+      Def_init_(self, x, y):
+        print("2.Initiate the new instance of Controller").
+        self.x=x
+        self.y=y
+        
+        def_repr_(self)->str:
+          return f" {type(self)._name_(x={self.x},y={self.y})
+          ._repr_()}"->super
+    #hash distribution.py
+    def distribute (tuples, num_containers, hash_function=hash):
+      return Counter([hash_function(item)% num_containers for tuple in tuples])
+    
+    def plot (histogram):
+      for key in sorted (histogram):
+        count=histogram[key]
+        padding=(max(histogram.values(1)-count)*"")
+        print(f"{key:3}{'inst', count}{padding} ({count})")
+    
